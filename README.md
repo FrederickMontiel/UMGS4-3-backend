@@ -60,11 +60,9 @@ src/
 └── test/
     └── java/
 ```
-
-## Documentación API
-La documentación de la API está disponible a través de Swagger UI en:
+## URL
 ```
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/
 ```
 
 ## Pruebas
@@ -95,8 +93,3 @@ El archivo JAR se generará en la carpeta `target/`.
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - email@ejemplo.com
-
-Link del proyecto: [https://github.com/tu-usuario/tu-proyecto](https://github.com/tu-usuario/tu-proyecto)
