@@ -1,7 +1,7 @@
 # Mi Aplicación Spring Boot
 
 ## Descripción
-Este proyecto es una aplicación Spring Boot que proporciona una API RESTful para [descripción breve de tu aplicación]. Está construido con Spring Boot [versión] y utiliza Java [versión].
+Este proyecto es una aplicación Spring Boot que proporciona una API RESTful para eventos. Está construido con Spring Boot y utiliza Java.
 
 ## Requisitos Previos
 - Java JDK 17 o superior
